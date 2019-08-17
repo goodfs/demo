@@ -1,0 +1,8 @@
+{
+    "name": "yushuang/demo",
+    "description": "test",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
